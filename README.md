@@ -6,7 +6,7 @@ Public companion repository for:
 
 **Authors:** Huy-Ngoc Duong, Linh Tran, Thanh Vo-Duy, Minh C. Ta, and Bao-Huy Nguyen
 
-This repository provides the public documentation, generated figures, and simulation outputs associated with the study. The complete MATLAB implementation is maintained separately in a private repository so access can be reviewed individually.
+This repository provides the public documentation, generated figures, and simulation outputs associated with the study. To request access to the complete source code, please read [`ACCESS_REQUEST.md`](ACCESS_REQUEST.md) and follow the instructions to submit a request.
 
 ## Public contents
 
